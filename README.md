@@ -1,5 +1,13 @@
-# Bootstrap 3 Date/Time Picker v4.17.47
+# Datetimepicker for Bootstrap 4
 
-We are in code freeze and this issue tracker is no longer actively monitored. I'll be closing PR that do not contribute emergency fixes and leaving some open as they are evaluated for migration into the new repo. I’ll be closing issues that do not meet minimum requirements or have been answered by the community. Issues that have been closed for longer than 30 days will be locked.
+The js and css files had been changed to the suit Boostrap 4.
 
-## [View the manual and demos](http://eonasdan.github.io/bootstrap-datetimepicker/)
+Since Bootstrap 4 removed the glyphicon, I replaced all icons with fontawesome, please includes the fontawesome css as well.
+
+Click [here](http://eonasdan.github.io/bootstrap-datetimepicker/) for the offical usage documentation.
+
+## Changes
+
+* JS DOM class name control
+* CSS stylessheet
+* Replaced glyphicon with fontawesome icons
