@@ -1,4 +1,5 @@
 # Datetimepicker for Bootstrap 4
+[![Build Status](https://travis-ci.org/pingcheng/bootstrap4-datetimepicker.svg?branch=master)](https://travis-ci.org/pingcheng/bootstrap4-datetimepicker)
 
 The js and css files had been changed to the suit Boostrap 4.
 
